@@ -5,9 +5,6 @@
 - 📫 How to reach me :  mlukic1@pmfst.hr / matealukic@gmail.com
 
 
-CodeSandbox : https://codesandbox.io/u/MteaHubHug
-CodePen : https://codepen.io/mteahubhug
-p5* : https://editor.p5js.org/matealukic/sketches
 
 
 
